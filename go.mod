@@ -1,4 +1,4 @@
-module reactor
+module github.com/imthatgin/reactor
 
 go 1.24
 
